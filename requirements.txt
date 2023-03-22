@@ -1,2 +1,10 @@
-Django>=3.2.4,<3.3
-djangorestframework>=3.12.4,<3.13
+asgiref==3.6.0
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+charset-normalizer==3.1.0
+Django==3.2.18
+djangorestframework==3.12.4
+idna==3.4
+pytz==2022.7.1
+requests==2.28.2
+sqlparse==0.4.3
+urllib3==1.26.15
